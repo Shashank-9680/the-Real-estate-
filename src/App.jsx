@@ -1,10 +1,10 @@
 import Header from "./components/Header/Header";
-import Hero from "./components/hero/hero";
+import Hero from "./components/hero/Hero";
 import Companies from "./components/Companies/Companies";
 import Residencies from "./components/Residencies/Residencies";
 import Value from "./components/Value/Value";
 import Contact from "./components/Contact/Contact";
-import GetStarted from "./components/getStarted/getStarted";
+import GetStarted from "./components/GetStarted/GetStarted";
 import Footer from "./components/Footer/Footer";
 import "./App.css";
 function App() {
