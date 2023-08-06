@@ -1,5 +1,5 @@
 import Header from "./components/Header/Header";
-import Hero from "./components/hero/Hero";
+import Hero from "./components/hero/hero";
 import Companies from "./components/Companies/Companies";
 import Residencies from "./components/Residencies/Residencies";
 import Value from "./components/Value/Value";
